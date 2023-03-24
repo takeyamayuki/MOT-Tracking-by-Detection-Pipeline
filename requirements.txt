@@ -1,0 +1,10 @@
+opencv-python
+onnxruntime
+mediapipe
+filterpy
+lap
+Cython
+cython_bbox
+rich
+gdown
+tensorflow
